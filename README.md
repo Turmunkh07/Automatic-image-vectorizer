@@ -11,4 +11,4 @@ If you wish to use it, I would like you to notify me and star the repository. It
 Remember to change the path where your icons are.
 
 ## Features
-Automatic Image Vectorizer uses selenium and pyautogui to open vectorizer.ai in the browser then upload my files and download them back vectorized. [what's this?] [0] [.]
+Automatic Image Vectorizer uses selenium and pyautogui to open vectorizer.ai in the browser then upload my files and download them back vectorized. [what's this?] {[0] [.]}
